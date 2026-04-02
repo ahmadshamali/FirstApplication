@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="login">Login</string>
+    <string name="name">Name :</string>
+    <string name="employed">Employed</string>
+    <string name="enter_seats_2_4_5_7">Enter seats (2,4,5,7)</string>
+    <string name="filter">Filter</string>
+    <string name="enter_max_price">Enter max price</string>
+    <string name="price">Price</string>
+    <string name="seats">Seats</string>
+    <string name="description">Description</string>
+    <string name="brand">Brand</string>
+    <string name="Name">Name</string>
+</resources>
